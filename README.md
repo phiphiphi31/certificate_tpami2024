@@ -1,4 +1,9 @@
-# 2024 Reviewer Certificate
+# 2024 Reviewer Certificate from TPAMI
+
+<p align="center">
+<img src="assets/tpami_certificate.png", width="100%">
+</p>
+
 
 Fei Xie
 
